@@ -70,6 +70,8 @@ p {
 }
 .submit-btn {
   padding: 1em;
+  text-transform: uppercase;
+  letter-spacing: 2px;
   color: var(--White);
   background-color: var(--Orange);
   border: none;
